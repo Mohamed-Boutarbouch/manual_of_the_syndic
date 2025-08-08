@@ -3,7 +3,7 @@
 ## DIRECTION DE LA PROMOTION IMMOBILIÈRE
 
 # SOMMAIRE
-https://github.com/Mohamed-Boutarbouch/manual_of_the_syndic/new/main
+
 ## Première partie - La copropriété : définition, régime juridique et organes d’administration
 - [Chapitre 1 – La copropriété dans le droit marocain : législation sur la copropriété](#chapitre-1--la-copropri%C3%A9t%C3%A9-dans-le-droit-marocain--l%C3%A9gislation-sur-la-copropri%C3%A9t%C3%A9)
 - [Chapitre 2 – Organes d'administration de la copropriété](#chapitre-2--organes-dadministration-de-la-copropri%C3%A9t%C3%A9)
